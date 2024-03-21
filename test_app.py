@@ -1,5 +1,5 @@
 # Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-# SPDX-License-Identifier: MIT-07987
+# SPDX-License-Identifier: MIT-07987bmbm
 
 from web import myapp
 import unittest
